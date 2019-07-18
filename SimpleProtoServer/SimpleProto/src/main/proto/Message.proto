@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package com.example.proto;
+
+message LoginRequest {
+    string username = 1;
+    string pwd = 2;
+}
+
+message LoginResponse {
+    int32 code = 1;
+    string msg = 2;
+}
