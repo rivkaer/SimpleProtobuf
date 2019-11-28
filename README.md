@@ -1,0 +1,2 @@
+# SimpleProtobufDemo
+Java中如何使用ProtobufDemo的一个实例 包含Android及J2EE平台.
